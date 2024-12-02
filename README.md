@@ -1,2 +1,2 @@
 # MSI-MAG-B560-TOMAHAWK-OpenCore-EFI
-MSI MAG B560 TOMAHAWK Hackintosh OpenCore EFI
+Files are in release.
